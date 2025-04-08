@@ -1,0 +1,6 @@
+[submodule "bubble-swerve-java"]
+	path = bubble-swerve-java
+	url = https://github.com/scottrodeo/bubble-swerve-java
+[submodule "bubble-swerve-csharp"]
+	path = bubble-swerve-csharp
+	url = https://github.com/scottrodeo/bubble-swerve-csharp
